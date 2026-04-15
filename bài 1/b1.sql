@@ -4,5 +4,5 @@ CREATE TABLE PRODUCTS (
 	ID INT PRIMARY KEY,
     ProductName VARCHAR(150),
     Price INT,
-    Description VARCHAR(150)
+    Description VARCHAR(500)
 )
